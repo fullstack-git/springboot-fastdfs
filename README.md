@@ -7,3 +7,5 @@ spring boot 简单入门可以参考http://git.oschina.net/keeplearning996/sprin
 部分童鞋可能出现fastdfs-client-java下载不下来。包在src/main/webapp/WEB-INF/lib；可自行手动添加。
 
 相关博客：https://my.oschina.net/xwzj/blog/777136
+
+关于FastDFS的另外一份简单的入门参考文档：https://my.oschina.net/xwzj/blog/760862
